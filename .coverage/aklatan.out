@@ -1,0 +1,12 @@
+mode: set
+github.com/blitzblade/aklatan/main.go:19.39,23.16 2 1
+github.com/blitzblade/aklatan/main.go:23.16,25.3 1 0
+github.com/blitzblade/aklatan/main.go:26.2,26.12 1 1
+github.com/blitzblade/aklatan/main.go:29.37,31.2 1 1
+github.com/blitzblade/aklatan/main.go:33.38,36.2 2 1
+github.com/blitzblade/aklatan/main.go:38.13,41.16 2 0
+github.com/blitzblade/aklatan/main.go:41.16,43.3 1 0
+github.com/blitzblade/aklatan/main.go:44.2,45.16 2 0
+github.com/blitzblade/aklatan/main.go:45.16,47.3 1 0
+github.com/blitzblade/aklatan/main.go:49.2,52.16 4 0
+github.com/blitzblade/aklatan/main.go:52.16,54.3 1 0
